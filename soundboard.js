@@ -7,7 +7,7 @@ function fire(){
 
 }
 function air(){
-    document.getElementById("air raid").play(); 
+    document.getElementById("airraid").play(); 
     
 
 }
